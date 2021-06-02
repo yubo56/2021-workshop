@@ -7,7 +7,8 @@
 
 ## NumPy, Scipy, and general scientific Python
  - [NumPy quickstart](https://numpy.org/devdocs/user/quickstart.html)
- - [The Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+ - [The Python Data Science Handbook by Jake
+   VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 ## Resources for debugging/answering "how do I do X?" questions
