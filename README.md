@@ -3,9 +3,7 @@ Welcome to the GitHub repository for the Cornell Astronomy Summer 2021 Python
 workshop! Much of this is reused with generous permission from the 2020 REU
 Python Workshop, located [here](https://github.com/CUAstro-REU-Python-Workshop/2020-workshop/).
 
-**Conveners:**
-Stella Koch Ocker
-Yubo Su
+**Conveners:** Stella Koch Ocker, Yubo Su
 
 |    |Info|
 |---:|:---|
