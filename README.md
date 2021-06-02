@@ -48,20 +48,20 @@ sciences.
 ### Day 1
 
 - intro slides on "taxonomy" of the Python ecosystem
-- work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2021-workshop/blob/master/day1/day1.ipynb)
+- work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day1/day1.ipynb)
 -  more advanced NumPy array details
 
 
 ### Day 2
 
 - Exploring plotting with matplotlib (`day2.ipynb` or the [Google Colab
-  version](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2021-workshop/blob/master/day2/day2.ipynb))
+  version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day2/day2.ipynb))
 
 
 ### Day 3
 
 - Data analysis using Pandas, Seaborn `day3.ipynb` or the [Google Colab
-  version](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2021-workshop/blob/master/day3/day3.ipynb)
+  version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day3/day3.ipynb)
 
 ## *Before* the workshop
 
@@ -86,7 +86,7 @@ the following before the course starts:
   with package distributions like Anaconda. However, if you don't have access to
   Jupyter/Python on your computer (or run into issues installing
   Anaconda/Python), you can find an online interactive version of the notebook
-  [here](https://colab.research.google.com/github/CUAstro-REU-Python-Workshop/2021-workshop/blob/master/intro/CrashCourseInPython.ipynb)!
+  [here](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/intro/CrashCourseInPython.ipynb)!
 
 ## *After* the workshop
 
