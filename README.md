@@ -10,7 +10,7 @@ Python Workshop, located [here](https://github.com/CUAstro-REU-Python-Workshop/2
 |Zoom link|sent via email|
 |               | Tuesday, 8th June 2021 / 11:00 - 12:00|
 |Dates and time | Tuesday, 15th June 2021 / 11:00-12:00|
-|               | Friday, 18th June 2021 / 11:00-12:00|
+|               | Session #3 / TBD|
 
 
 ## Description
@@ -47,20 +47,24 @@ sciences.
 
 ### Day 1
 
-- intro slides on "taxonomy" of the Python ecosystem
+- working in Anaconda and Jupyter notebooks
 - work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day1/day1.ipynb)
--  more advanced NumPy array details
+- Numpy
 
 
 ### Day 2
 
-- Exploring plotting with matplotlib (`day2.ipynb` or the [Google Colab
+- Matplotlib (`day2.ipynb` or the [Google Colab
   version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day2/day2.ipynb))
+- Scipy
+- Astropy
+- Sympy
 
 
 ### Day 3
 
-- Data analysis using Pandas, Seaborn `day3.ipynb` or the [Google Colab
+- Working from the command line
+- Additional materials (optional): Data analysis using Pandas, Seaborn `day3.ipynb` or the [Google Colab
   version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day3/day3.ipynb)
 
 ## *Before* the workshop
