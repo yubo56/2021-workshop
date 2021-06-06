@@ -82,7 +82,7 @@ the following before the course starts:
 
 - Please go through the notebook
   [CrashCourseInPython.ipynb](intro/CrashCourseInPython.ipynb) in the 'intro'
-  folder. It will help you revise the basic functionalities and concepts within
+  folder. It will help you review the basic functionalities and concepts within
   Python.
 - The CrashCourseInPython.ipynb file is a Jupyter notebook: an open-source web
   application that allows one to create and share documents that contain live
