@@ -10,7 +10,7 @@ Python Workshop, located [here](https://github.com/CUAstro-REU-Python-Workshop/2
 |Zoom link|sent via email|
 |               | Tuesday, 8th June 2021 / 11:00 - 12:00|
 |Dates and time | Tuesday, 15th June 2021 / 11:00-12:00|
-|               | Session #3 / TBD|
+|               | Wednesday, 16th June 2021 / 2:00-3:00|
 
 
 ## Description
@@ -43,13 +43,18 @@ sciences.
 - Obtain basic proficiency in popular python packages frequently used in
   astronomy research.
 
-## Tentative Agenda
+## Agenda
+
+We have included excellent and thorough materials from the 2020 edition of this
+workshop, which you may find useful. The `ipynb` files can be found in the
+`2020_materials` folder.
 
 ### Day 1
 
 - Introduction to the Anaconda + Python + Jupiter ecosystem.
 - Use Google Colab to attain basic familiarity with Python syntax and features.
 - Introduction to NumPy.
+- notebook: `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/drive/1JZdyfnAu-A7pWduS59Uo3lKpiJNGEmKV?usp=sharing)
 
 ### Day 2
 
@@ -58,28 +63,8 @@ sciences.
     - `scipy`
     - `astropy`
     - `sympy`
-
-# Old Agenda
-
-We have included excellent and thorough materials from the 2020 edition of this
-workshop, which you may find useful. The `ipynb` files can be found in the
-`2020_materials` folder.
-
-### Day 1
-
-- working in Anaconda and Jupyter notebooks
-- work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/drive/1JZdyfnAu-A7pWduS59Uo3lKpiJNGEmKV?usp=sharing)
-- Numpy
-
-
-### Day 2
-
-- Matplotlib (`day2.ipynb` or the [Google Colab
+- `day2.ipynb` or the [Google Colab
   version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day2/day2.ipynb))
-- Scipy
-- Astropy
-- Sympy
-
 
 ### Day 3
 
