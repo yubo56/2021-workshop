@@ -48,7 +48,7 @@ sciences.
 ### Day 1
 
 - working in Anaconda and Jupyter notebooks
-- work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day1/day1.ipynb)
+- work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/drive/1JZdyfnAu-A7pWduS59Uo3lKpiJNGEmKV?usp=sharing)
 - Numpy
 
 
