@@ -47,6 +47,26 @@ sciences.
 
 ### Day 1
 
+- Introduction to the Anaconda + Python + Jupiter ecosystem.
+- Use Google Colab to attain basic familiarity with Python syntax and features.
+- Introduction to NumPy.
+
+### Day 2
+
+- Introduction to a few more major scientific computing libraries:
+    - `matplotlib`
+    - `scipy`
+    - `astropy`
+    - `sympy`
+
+# Old Agenda
+
+We have included excellent and thorough materials from the 2020 edition of this
+workshop, which you may find useful. The `ipynb` files can be found in the
+`2020_materials` folder.
+
+### Day 1
+
 - working in Anaconda and Jupyter notebooks
 - work in breakout rooms on `day1.ipynb` [(Google Colab version)](https://colab.research.google.com/drive/1JZdyfnAu-A7pWduS59Uo3lKpiJNGEmKV?usp=sharing)
 - Numpy
