@@ -64,7 +64,7 @@ workshop, which you may find useful. The `ipynb` files can be found in the
     - `astropy`
     - `sympy`
 - `day2.ipynb` or the [Google Colab
-  version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day2/day2.ipynb))
+  version](https://colab.research.google.com/drive/1OlX2-L5KZxhuHjrHuKLKm1zCgHsT2iq4?usp=sharing))
 
 ### Day 3
 
