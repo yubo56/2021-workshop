@@ -70,7 +70,7 @@ workshop, which you may find useful. The `ipynb` files can be found in the
 
 - Working from the command line
 - Additional materials (optional): Data analysis using Pandas, Seaborn `day3.ipynb` or the [Google Colab
-  version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day3/day3.ipynb)
+  version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/2020_materials/day3/day3.ipynb)
 
 ## *Before* the workshop
 
