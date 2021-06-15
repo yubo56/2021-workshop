@@ -3,7 +3,7 @@ Welcome to the GitHub repository for the Cornell Astronomy Summer 2021 Python
 workshop! Much of this is reused with generous permission from the 2020 REU
 Python Workshop, located [here](https://github.com/CUAstro-REU-Python-Workshop/2020-workshop/).
 
-**Conveners:** Stella Koch Ocker, Yubo Su
+**Conveners:** Stella Koch Ocker, Yubo Su, Jonathan Davis
 
 |    |Info|
 |---:|:---|
@@ -64,7 +64,7 @@ workshop, which you may find useful. The `ipynb` files can be found in the
     - `astropy`
     - `sympy`
 - `day2.ipynb` or the [Google Colab
-  version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/day2/day2.ipynb))
+  version](https://colab.research.google.com/drive/1OlX2-L5KZxhuHjrHuKLKm1zCgHsT2iq4?usp=sharing))
 
 ### Day 3
 
