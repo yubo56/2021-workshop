@@ -68,9 +68,10 @@ workshop, which you may find useful. The `ipynb` files can be found in the
 
 ### Day 3
 
+- Setting up local environment
 - Working from the command line
-- Additional materials (optional): Data analysis using Pandas, Seaborn `day3.ipynb` or the [Google Colab
-  version](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/2020_materials/day3/day3.ipynb)
+- PyCharm and Anaconda
+- Goal: run the script [here](day3/day3_classExample.py) on your local computer.
 
 ## *Before* the workshop
 
@@ -102,3 +103,4 @@ the following before the course starts:
 
 ### Further reading
 [Resources list](additional_resources.md)
+[Last year's curriculum](https://github.com/yubo56/2021-workshop/tree/master/2020_materials)
