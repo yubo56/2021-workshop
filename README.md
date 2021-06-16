@@ -102,5 +102,5 @@ the following before the course starts:
 
 
 ### Further reading
-[Resources list](additional_resources.md)
-[Last year's curriculum](https://github.com/yubo56/2021-workshop/tree/master/2020_materials)
+- [Resources list](additional_resources.md)
+- [Last year's curriculum](https://github.com/yubo56/2021-workshop/tree/master/2020_materials)
