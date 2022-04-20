@@ -96,7 +96,7 @@ the following before the course starts:
   with package distributions like Anaconda. However, if you don't have access to
   Jupyter/Python on your computer (or run into issues installing
   Anaconda/Python), you can find an online interactive version of the notebook
-  [here](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/intro/CrashCourseInPython.ipynb)!
+  [here](https://colab.research.google.com/github/yubo56/2021-workshop/blob/master/2020_materials/intro/CrashCourseInPython.ipynb)!
 
 ## *After* the workshop
 
